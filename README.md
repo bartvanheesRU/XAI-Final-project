@@ -25,9 +25,9 @@ numpy: Provides support for numerical operations.
 5. pillow: Used for opening and manipulating images.
 6. torchattacks: Provides implementations of adversarial attacks, such as FGSM.
 
+Additionally make sure that the imagenet_classes.json file and the images are in your working directory.  
+The code can be run from top to bottom, as long as all the files are present, then their should be problem.
 
-
-additionally make sure that the imagenet_classes.json file and the images are in your working directory.  
 
 ## Models
 The following pre-trained modesl are used for analysis:
